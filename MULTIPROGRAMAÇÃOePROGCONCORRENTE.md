@@ -1,4 +1,5 @@
 Multiprogramação
+
 “A multiprogramação são vários programas que estão na memória ao mesmo tempo, de modo que, enquanto um esperava por entrada-saída para concluir sua tarefa, o outro podia executar, que resultava na utilização alta da CPU.”
  A Multiprogramação consiste em dividir a memória em várias partições de vários tamanhos fazendo com que a CPU fique com vários programas simultaneamente ativos na memória. Uma das vantagens da multiprogramação é de melhorar o rendimento de utilização da CPU e dos periféricos, outra vantagem é de permitir que o usuário explore tarefas correntes. Também temos a vantagem de permitir múltiplos utilizadores correntes e tendo a ilusão de que cada um tem um computador dedicado a ele mesmo. E isto é utilizado no Windows e na maioria dos sistemas operacionais.
 
