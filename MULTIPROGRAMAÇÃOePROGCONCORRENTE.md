@@ -8,7 +8,9 @@ Um processo pode estar em um dos seguintes estados:
 1. Running: usando a CPU naquele instante;
 2. Ready: pronto para ser executado, temporariamente parado para que outro processo possa set executado;
 3. Blocked: impossibilitado de ser executado até que algum evento externo ocorra. 
+
 Programação Concorrente
+
 Programação corrente significa “programação acontecendo ao mesmo tempo”. A mesma é um paradigma de programação para a construção de programas que fazem o uso da execução simultânea de várias tarefas computacionais interativas que podem ser implementadas como programas separados ou como um conjunto de threads criadas por um único programa. Essas tarefas podem ser executadas por um único processador, vários processadores em um único equipamento ou processadores distribuídos por uma rede. Programação concorrente é relacionada com programação paralela, mas foca mais na interação entre as tarefas. A interação e a comunicação correta entre as diferentes tarefas, além da coordenação do acesso concorrente aos recursos computacionais são as principais questões discutidas durante o desenvolvimento de sistemas concorrentes. Pioneiros na área de pesquisa incluem Edsger Dijkstra, Per Brinch Hansen, e C.A.R. Hoare.
 
 Vantagens do paradigma incluem o aumento de desempenho, pois aumenta-se a quantidade de tarefas sendo executadas em determinado período de tempo, e a possibilidade de uma melhor modelagem de programas, pois determinados problemas computacionais são concorrentes por natureza.
